@@ -1,0 +1,34 @@
+.logo-mercado-liebre {
+    width: 400px; 
+}
+
+.fa-credit-card {
+    font-size: 10px; /* Corrección: añadir 'px' a la unidad */
+}
+
+.header_nav {
+    width: 70%;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.burgerButton {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.fa-bars {
+    width: 2em;
+    height: 25px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15%;
+    background-color: #1259c3;
+    color: #fff;
+}
